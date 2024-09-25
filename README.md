@@ -17,11 +17,11 @@ This project involves a comprehensive security audit of Botium Toys, focusing on
 - **Disaster Recovery and Backup Planning**
 - **Compliance with PCI DSS, GDPR, SOC Type 1 & 2**
   
-(https://docs.google.com/document/d/1cFrKuxJamxq9fqW97eD26epgV5O-gUDDv3EsYzQ_QYw/edit)[Link to Security Audit]
+[Link to Security Audit](https://docs.google.com/document/d/1cFrKuxJamxq9fqW97eD26epgV5O-gUDDv3EsYzQ_QYw/edit)
 
 ---
 
 ## About
 Allan NDAMUKUNDA HIRWA is a cybersecurity professional with expertise in conducting audits, identifying vulnerabilities, and ensuring compliance with security standards. This portfolio highlights some of his work in the field of cybersecurity, including risk management and security control implementation.
 
-For inquiries or collaboration, feel free to [contact me](your_email@example.com).
+For inquiries or collaboration, feel free to [Contact me ](h.allan@alustudent.com).
