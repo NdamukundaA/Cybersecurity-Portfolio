@@ -24,4 +24,4 @@ This project involves a comprehensive security audit of Botium Toys, focusing on
 ## About
 Allan NDAMUKUNDA HIRWA is a cybersecurity professional with expertise in conducting audits, identifying vulnerabilities, and ensuring compliance with security standards. This portfolio highlights some of his work in the field of cybersecurity, including risk management and security control implementation.
 
-For inquiries or collaboration, feel free to [Contact me ](h.allan@alustudent.com).
+For inquiries or collaboration, feel free to [Contact me ](https://docs.google.com/document/d/1RPE3DCdUbZjEnJeZGMsOeGGughSXCHOiTWxL6BNEPcI/edit?usp=sharing).
