@@ -17,7 +17,7 @@ This project involves a comprehensive security audit of Botium Toys, focusing on
 - **Disaster Recovery and Backup Planning**
 - **Compliance with PCI DSS, GDPR, SOC Type 1 & 2**
   
-https://docs.google.com/document/d/1cFrKuxJamxq9fqW97eD26epgV5O-gUDDv3EsYzQ_QYw/edit[Link to Security Audit]
+(https://docs.google.com/document/d/1cFrKuxJamxq9fqW97eD26epgV5O-gUDDv3EsYzQ_QYw/edit)[Link to Security Audit]
 
 ---
 
