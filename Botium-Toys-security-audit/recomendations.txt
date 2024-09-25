@@ -1,0 +1,26 @@
+# Recommendations for Botium Toys Security Improvements
+
+1. **Implement Least Privilege**:
+   - Restrict employee access to sensitive data based on job roles and responsibilities.
+   - Ensure that only authorized personnel have access to credit card and PII data.
+
+2. **Use Encryption for Sensitive Data**:
+   - Apply encryption protocols (e.g., AES-256) for all sensitive customer information, both at rest and in transit.
+   - Encrypt credit card data as it is processed, stored, and transmitted.
+
+3. **Establish a Disaster Recovery Plan**:
+   - Create a comprehensive disaster recovery and business continuity plan.
+   - Ensure regular backups of critical data are stored securely off-site.
+
+4. **Install an Intrusion Detection System (IDS)**:
+   - Implement an IDS to monitor the internal network for suspicious activity.
+   - Regularly update IDS rules to detect emerging threats.
+
+5. **Improve Password Policy**:
+   - Update the password policy to require a minimum of 8 characters, including upper and lower case letters, numbers, and special characters.
+   - Enforce the use of a password management system to centralize and control password policies.
+
+6. **Implement Regular Audits**:
+   - Conduct regular security audits to ensure compliance with PCI DSS, GDPR, and SOC Type 1 and 2 standards.
+   - Review and update security controls periodically to address new threats.
+
